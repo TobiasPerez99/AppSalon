@@ -18,7 +18,7 @@ async function mostrarServicios() {
             const {id, nombre, precio} = servicio;
 
             //DOM Scripting
-            
+
 
 
         });
